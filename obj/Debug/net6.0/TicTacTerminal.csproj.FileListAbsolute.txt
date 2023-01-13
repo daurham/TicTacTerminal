@@ -1,0 +1,15 @@
+/home/captain/ForgeWorld/-C#/TicTacTerminal/bin/Debug/net6.0/TicTacTerminal
+/home/captain/ForgeWorld/-C#/TicTacTerminal/bin/Debug/net6.0/TicTacTerminal.deps.json
+/home/captain/ForgeWorld/-C#/TicTacTerminal/bin/Debug/net6.0/TicTacTerminal.runtimeconfig.json
+/home/captain/ForgeWorld/-C#/TicTacTerminal/bin/Debug/net6.0/TicTacTerminal.dll
+/home/captain/ForgeWorld/-C#/TicTacTerminal/bin/Debug/net6.0/TicTacTerminal.pdb
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.csproj.AssemblyReference.cache
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.GeneratedMSBuildEditorConfig.editorconfig
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.AssemblyInfoInputs.cache
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.AssemblyInfo.cs
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.csproj.CoreCompileInputs.cache
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.dll
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/refint/TicTacTerminal.dll
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.pdb
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/TicTacTerminal.genruntimeconfig.cache
+/home/captain/ForgeWorld/-C#/TicTacTerminal/obj/Debug/net6.0/ref/TicTacTerminal.dll
